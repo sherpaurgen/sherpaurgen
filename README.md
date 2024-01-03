@@ -1,4 +1,8 @@
 <p align="left">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherpaurgen&show_icons=true&locale=en&layout=compact" alt="sherpaurgen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherpaurgen&" alt="sherpaurgen" /></p>
+
 </p>
 
 <h3 align="middle">Languages and Tools:</h3>
